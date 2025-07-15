@@ -1,0 +1,33 @@
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #6cd6bf;
+}
+
+#Desain {
+    background-color: #6cd6bf;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+
+section {
+    padding-top: 5rem;
+}
+
+.card {
+    display: block;
+    margin: auto;
+}
+
+.social-logo {
+    font-size: 30px;
+    color: #000000;
+    transition: .3s;
+}
+
+.soscial-logo:hover {
+    color: #6cd6bf;
+}
